@@ -10,8 +10,8 @@ HTMLFormElement;
 }
   return (
 <button type="reset" onClick={reset}>
-    <Link href="/" className="search-btn text-white font-semibold">
-    X
+    <Link href="/" className="search-btn text-white font-semibold ">
+    x
     </Link> 
 </button>
 )
