@@ -14,7 +14,6 @@ const posts = [{
   category: "Technology",
   title: "This is a title",
 
-
 }]
   return (
     <>
